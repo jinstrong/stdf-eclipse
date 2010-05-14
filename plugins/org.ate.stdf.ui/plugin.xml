@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.editors">
+      <editor
+            name="STDF Multi-page Viewer"
+            extensions="STD"
+            icon="icons/sample.gif"
+            contributorClass="org.ate.stdf.ui.viewers.STDFMultiPageViewerContributor"
+            class="org.ate.stdf.ui.viewers.STDFMultiPageViewer"
+            id="org.ate.stdf.ui.viewers.STDFMultiPageViewer">
+      </editor>
+   </extension>
+
+</plugin>
