@@ -9,7 +9,7 @@ The consensus is that although STDF is far from perfect, the good thing about it
 
 There are many good tools available on the commercial market, but none in the open source domain. As the prices for the nice commercial tools are high (or at least perceived as such) the existence of STDF itself is put in question over and over again (that's why the above discussion was started). This in turn doesn't help STDF to evolve, whereas there is clearly still room to do so.
 
-This project attempts to get an open source effort up and running that will enable people to manipulate STDF files in an inter-active way for *INVESTIGATION* purposes. It is *NOT* an attempt to compete with commercial tools!
+This project attempts to get an open source effort up and running that will enable people to manipulate ATE LOG files in general, and STDF files in an inter-active way for *INVESTIGATION* purposes. It is *NOT* an attempt to compete with commercial tools!
 
 = Details =
 
