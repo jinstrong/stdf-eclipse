@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Model
-Bundle-SymbolicName: org.ate.stdf.model
+Bundle-SymbolicName: org.ate.stdf.model;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: org.ate.stdf.model.Activator
 Require-Bundle: org.eclipse.core.runtime
