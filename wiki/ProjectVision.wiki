@@ -5,9 +5,10 @@
 
 On [http://www.linkedin.com LinkedIn] a discussion was started by [http://www.linkedin.com/profile?viewProfile=&key=6587116&authToken=JB9j&authType=name&goback=%2Eanh_941397 Aparna Joshi] with the title "[http://www.linkedin.com/groupAnswers?viewQuestionAndAnswers=&gid=941397&discussionID=18344633&goback=%2Eanh_941397 Why do we need data files in STDF (Standard Test Data Format)?]" 
 
+The consensus is that although STDF is far from perfect, the good thing about it is that it is a standard, and that data manipulation can be based on a standard. There are many good tools available on the commercial market, but none in the open source domain. As the prices for the nice commercial tools are high (or at least perceived as such) the existence of STDF itself is put in question over and over again. This in turn leads to the fact that STDF is not evolving any more (where clearly there is room to do so).
+
+This project attempts to get an open source effort up and running that will enable people to manipulate STDF files in an inter-active way for *INVESTIGATION* purposes. It is *NOT* an attempt to compete with commercial tools!
+
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+reasoning why java & Eclipse
