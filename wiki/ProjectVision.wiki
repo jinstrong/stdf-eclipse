@@ -3,7 +3,7 @@
 
 = Introduction =
 
-On [http://www.linkedin.com LinkedIn] a discussion was started by Aparna Joshi with the title "Why do we need data files in STDF (Standard Test Data Format)?" 
+On [http://www.linkedin.com LinkedIn] a discussion was started by [http://www.linkedin.com/profile?viewProfile=&key=6587116&authToken=JB9j&authType=name&goback=%2Eanh_941397 Aparna Joshi] with the title "Why do we need data files in STDF (Standard Test Data Format)?" 
 
 = Details =
 
