@@ -41,16 +41,10 @@ Now what should be the criteria to chose the IDE ?
    * Multi language (English, Chinese, German, French, ...)
    * Plugin based architecture with good update facilities
 
-With those criteria we can look for the available IDE's on [http://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments wikipedia] ...
+With those criteria we can look for the available IDE's on [http://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments wikipedia] ... and the usual suspects are ...
 
-Candidates are :
-
-|| IDE ||  Home Page || Note ||
+|| IDE ||  Home Page ||
 || [http://en.wikipedia.org/wiki/KDevelop Kdevelop] || [http://www.kdevelop.org/ http://upload.wikimedia.org/wikipedia/commons/4/48/KDevelop_icon.png] ||
 || netbeans ||  ||
 || [http://en.wikipedia.org/wiki/IntelliJ_IDEA IntelliJ] || ||
-|| [http://en.wikipedia.org/wiki/Eclipse_(software) Eclipse] || ||
-
-
-netbeans
- 
+|| [http://en.wikipedia.org/wiki/Eclipse_(software) Eclipse] || [http://www.eclipse.org/ http://upload.wikimedia.org/wikipedia/en/3/34/Eclipse-logo.png] ||
