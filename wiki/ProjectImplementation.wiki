@@ -1,0 +1,21 @@
+= Introduction =
+
+In what follows a proposition is made on how the tasks at hand can be implemented.
+
+= Details =
+
+In the end what we want to come to is a way to "define" a *Report*.
+
+A *Report* provides the reader with the "condensed" information that he needs. If in the report the reader discovers something strange, then he needs to go in and investigate (manually). Anyway the "condensed" information consists out of *elements*. 
+
+An *element* is the result of a *procedure*.
+
+And a *procedure* is a concatenation of  *tasks*
+
+To visualize this hierarchy here is an example :
+
+   Report : 
+      Procedure #1 :
+         Task #1 : Read STDF file in memory map
+         Task #2 : 
+      Procedure #2 : Extract test name list → 
