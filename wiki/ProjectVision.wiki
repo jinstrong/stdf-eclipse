@@ -37,7 +37,7 @@ Now what should be the criteria to chose the IDE ?
    * Able to create an RPC (~stand alone program)
    * Have a big community so other people can easily join the project
    * Support testing of code (unit/integration/...)
-   * ...
+   * Multi platform (Windows, Linux, Solaris, OSX, ...)
 
 With those criteria we can look for the available IDE's on [http://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments wikipedia] ...
 
