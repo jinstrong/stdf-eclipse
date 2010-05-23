@@ -17,12 +17,12 @@ This project attempts to get an open source effort up and running that will enab
 
 A long discussion can be made on what programming language to use, and in fact each language has advantages and disadvantages for the task at hand. Now if we make for a minute abstraction of the language and ask ourselves what it is that we want to do, then the answer is :
 
-   * Load some ATE data file into memory (STDF/WAT/GDF/CSV/...)
+   * Load some ATE data file into memory ( STDF / WAT / GDF / CSV / ...)
    * Extract data (summary, test list, ...)
    * Transform data (discard dies with bincode X, PAT, ...)
    * Calculate correlations
    * Create graphs (trend, distributions, XY scatters, ...)
-   * Write data to file in some format (STDF/WAT/InkMap/CSV/XLS/...)
+   * Write data to file in some format ( STDF / WAT / InkMap / CSV / XLS / ...)
    * Create a report 
    * ...
 
@@ -45,8 +45,8 @@ With those criteria we can look for the available IDE's on [http://en.wikipedia.
 
 Candidates are :
 
-|| IDE ||   ||
-|| Kdevelop || http://upload.wikimedia.org/wikipedia/commons/4/48/KDevelop_icon.png ||
+|| IDE ||  Home Page || Note ||
+|| Kdevelop || [http://www.kdevelop.org/ http://upload.wikimedia.org/wikipedia/commons/4/48/KDevelop_icon.png] ||
 || netbeans ||  ||
 || [http://en.wikipedia.org/wiki/IntelliJ_IDEA IntelliJ] || ||
 || [http://en.wikipedia.org/wiki/Eclipse_(software) Eclipse] || ||
