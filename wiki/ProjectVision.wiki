@@ -22,7 +22,7 @@ A long discussion can be made on what programming language to use, and in fact e
    * Transform data (discard dies with bincode X, PAT, ...)
    * Calculate correlations
    * Create graphs (trend, distributions, XY scatters, ...)
-   * Write data to file in some format ( STDF / WAT / InkMap / CSV / XLS / ...)
+   * Write data to file in some format ( STDF / WAT / inkmap / CSV / XLS / ...)
    * Create a report 
    * ...
 
