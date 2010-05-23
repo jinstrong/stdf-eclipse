@@ -52,4 +52,8 @@ With those criteria we can look for the available IDE's on [http://en.wikipedia.
 
 Kdevelop falls off as it is written in C++, and C++ lacks [http://en.wikipedia.org/wiki/Reflective_programming reflextion] and also it has poor failsafe implementations.
 
+The remaining candidates are all written in Java which does have reflexion and a better failsafe implementation.
+
+
+
  
