@@ -25,8 +25,8 @@ A long discussion can be made on what programming language to use, and in fact e
 
 So, if we implement this project just by "choosing" a programming language, the project will fail, because :
 
-   1) It means that the user needs to be very familiar with the chosen programming language
-   2) Every single thing needs to be coded by the project itself
+   #. It means that the user needs to be very familiar with the chosen programming language
+   #. Every single thing needs to be coded by the project itself
 
 
 
