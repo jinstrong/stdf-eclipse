@@ -46,5 +46,5 @@ With those criteria we can look for the available IDE's on [http://en.wikipedia.
 || IDE ||  Home Page ||
 || [http://en.wikipedia.org/wiki/KDevelop Kdevelop] || [http://www.kdevelop.org/ http://upload.wikimedia.org/wikipedia/commons/4/48/KDevelop_icon.png] ||
 || netbeans ||  ||
-|| [http://en.wikipedia.org/wiki/IntelliJ_IDEA IntelliJ] || ||
+|| [http://en.wikipedia.org/wiki/IntelliJ_IDEA IntelliJ] || [http://www.jetbrains.com/idea/ http://upload.wikimedia.org/wikipedia/en/thumb/0/07/IntelliJ_IDEA_logo.gif/200px-IntelliJ_IDEA_logo.gif] ||
 || [http://en.wikipedia.org/wiki/Eclipse_(software) Eclipse] || [http://www.eclipse.org/ http://upload.wikimedia.org/wikipedia/en/3/34/Eclipse-logo.png] ||
