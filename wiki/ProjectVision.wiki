@@ -43,8 +43,13 @@ Now what should be the criteria to chose the IDE ?
 
 With those criteria we can look for the available IDE's on [http://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments wikipedia] ...
 
+Candidates are :
 
-
+|| IDE ||   ||
+| Kdevelop | [http://upload.wikimedia.org/wikipedia/commons/4/48/KDevelop_icon.png] |
+| netbeans |
+| [http://en.wikipedia.org/wiki/IntelliJ_IDEA IntelliJ] |
+| [http://en.wikipedia.org/wiki/Eclipse_(software) Eclipse] |
 
 
 netbeans
