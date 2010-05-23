@@ -50,3 +50,6 @@ With those criteria we can look for the available IDE's on [http://en.wikipedia.
 || [http://en.wikipedia.org/wiki/IntelliJ_IDEA IntelliJ] || [http://www.jetbrains.com/idea/ http://upload.wikimedia.org/wikipedia/en/thumb/0/07/IntelliJ_IDEA_logo.gif/200px-IntelliJ_IDEA_logo.gif] ||
 || [http://en.wikipedia.org/wiki/Eclipse_(software) Eclipse] || [http://www.eclipse.org/ http://upload.wikimedia.org/wikipedia/en/3/34/Eclipse-logo.png] ||
 
+Kdevelop falls off as it is written in C++, and C++ lacks [http://en.wikipedia.org/wiki/Reflective_programming reflextion] and also it has poor failsafe implementations.
+
+ 
