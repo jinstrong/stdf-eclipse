@@ -13,14 +13,16 @@ This project attempts to get an open source effort up and running that will enab
 
 = Details =
 
+== Programming Language ==
+
 A long discussion can be made on what programming language to use, and in fact each language has advantages and disadvantages for the task at hand, so if we make for a minute abstraction of the language and ask ourselves what it is that we want to do, then the answer is :
 
-   * Load some ATE data file
-   * Extract data
+   * Load some ATE data file into memory (STDF/WAT/GDF/CSV/...)
+   * Extract data (summary, test list, ...)
    * Transform data (discard dies with bincode X, PAT, ...)
    * Calculate correlations
    * Create graphs (trend, distributions, XY scatters, ...)
-   * Write data to file formatted as XYZ
+   * Write data to file in some format (STDF/WAT/InkMap/CSV/XLS/...)
    * Create a report 
 
 So, if we implement this project just by "choosing" a programming language, the project will fail, because :
