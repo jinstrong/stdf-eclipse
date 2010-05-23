@@ -11,11 +11,11 @@ There are many good tools available on the commercial market, but none in the op
 
 This project attempts to get an open source effort up and running that will enable people to manipulate ATE LOG files in general, and STDF files in an inter-active way for *INVESTIGATION* purposes. It is *NOT* an attempt to compete with commercial tools!
 
-= Details =
+= Implementation Choices =
 
-== Programming Language ==
+== 1. Programming Language ==
 
-A long discussion can be made on what programming language to use, and in fact each language has advantages and disadvantages for the task at hand, so if we make for a minute abstraction of the language and ask ourselves what it is that we want to do, then the answer is :
+A long discussion can be made on what programming language to use, and in fact each language has advantages and disadvantages for the task at hand. Now if we make for a minute abstraction of the language and ask ourselves what it is that we want to do, then the answer is :
 
    * Load some ATE data file into memory (STDF/WAT/GDF/CSV/...)
    * Extract data (summary, test list, ...)
@@ -24,11 +24,23 @@ A long discussion can be made on what programming language to use, and in fact e
    * Create graphs (trend, distributions, XY scatters, ...)
    * Write data to file in some format (STDF/WAT/InkMap/CSV/XLS/...)
    * Create a report 
+   * ...
 
-So, if we implement this project just by "choosing" a programming language, the project will fail, because :
+So, if we implement this project just by "choosing" a programming language, the project will fail, because it means that the user needs to be very familiar with the chosen programming language ... is this really what we want ???
+It also means that things that have not much to do with the project also have to be programmed (revision control, project updates, report builder, ...)
 
-   #. It means that the user needs to be very familiar with the chosen programming language
-   #. Every single thing needs to be coded by the project itself
+The question thus is not what programming language will be chosen, the question is what IDE will be best suited for the tasks at hand ?
+
+Now what should be the criteria to chose the IDE ?
+
+   * Open source!
+   * Able to create an RPC (~stand alone program)
+   * Have a big community so other people can easily join the project
+   * Support testing of code (unit/integration/...)
+   * ...
+
+With those criteria we can look for the available IDE's on [http://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments wikipedia] ...
+
 
 
 
