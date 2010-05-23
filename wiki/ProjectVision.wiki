@@ -56,6 +56,15 @@ The remaining candidates are all written in Java which does have reflection and 
 
 IntelliJ falls off as it has a proprietary license ... (pity)
 
+Netbeans falls off as it doesn't seem to provide RCP support ...
+
+This leaves us with Eclipse, and thus the programming language will be Java.
+
+Let's not go into big discussions about "speed" because it is futile, and Java will be fast enough in any case because the speed penalty (once compiled, and hot-spot did his job) will be neglectable compared to the only other solution that was in the list, being C++.
+
+Anyway now you have a good idea why the project elected ECLIPSE/JAVA as it's tools of the trade :-)
+
+
 
 
 
