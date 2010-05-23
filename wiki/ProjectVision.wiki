@@ -54,6 +54,10 @@ Kdevelop falls off as it is written in C++, and C++ lacks [http://en.wikipedia.o
 
 The remaining candidates are all written in Java which does have reflection and a better failsafe implementation.
 
+IntelliJ falls off as it has a proprietary license.
+
+
+
 
 
 
